@@ -2,7 +2,8 @@
 # IEEE LEAD
 
 *Name :Paramita Mallik*
-Link
+
+Link : https://paramitamallik210.github.io/lead_project
 
 MILESTONES ACHIEVED
 * [x] ABOUT PAGE
